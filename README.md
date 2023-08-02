@@ -2,7 +2,7 @@
 - 👀 I’m interested in desgining,editing
 - 🌱 I’m currently learning ...b.tech(computer science)
 - 💞️ I’m looking to collaborate on ...web-designing,video editing, and development 
-- 📫 How to reach me ...insta:_.xo.ashok_    mail:ashokchoudhary1085@gmail.com
+- 📫 How to reach me ...insta:  _.xo.ashok_    mail:ashokchoudhary1085@gmail.com
 - 
 
 <!---
