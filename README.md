@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashok1304
-- 👀 I’m interested in desgining,editing
-- 🌱 I’m currently learning ...b.tech(computer science)
-- 💞️ I’m looking to collaborate on ...web-designing,video editing, and development 
+- 👀 I’m interested in analyzing,visaulization,desgining and editing
+- 🌱 I’m a B.tech Graduate in computer science
+- 💞️ I’m looking to collaborate on ...data analysis,data visualization  
 - 📫 How to reach me ...insta:  _.xo.ashok_    mail:ashokchoudhary1085@gmail.com
 - 
 
